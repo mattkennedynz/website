@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     
-    <title>{{ site.title }}{% if page.title and page.title != "" %} &mdash; {{ page.title }}{% endif %}</title>
+    <title>{% if page.title and page.title != "" %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
 
     {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
 
@@ -21,15 +21,19 @@
   </head>
   <body>
 
-    {% if page.layout == 'home' %}
-      <a href="#main" class="skip-navigation">
-        Skip to list of posts
-      </a>
-    {% else %}
-      <a href="#main" class="skip-navigation">
-        Skip to content
-      </a>
-    {% endif %}
+    <!-- Hide skip section functionality
+        {% if page.layout == 'home' %}
+          <a href="#main" class="skip-navigation">
+            Skip to list of posts
+          </a>
+        {% else %}
+          <a href="#main" class="skip-navigation">
+            Skip to content
+          </a>
+        {% endif %}
+   -->
+
+    {% include menu.html %}
 
     {{ content }}
 
