@@ -32,13 +32,18 @@ github_username:  mattkennedynz
 
 # Build settings
 markdown: kramdown
-theme: hitchens-theme
+# theme: hitchens-theme # commented due to now adding the theme to this repo directly
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
 # Permalinks
-permalink: pretty
+collections:
+    pages:
+        output: true
+    posts:
+        output: true
+        permalink: /blog/:title
 
 # Styling
 feed_icon: /favicon.ico
