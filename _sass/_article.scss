@@ -16,20 +16,28 @@
 .post > h1 {
   font-size: 2em;
   max-width: 48rem;
-  padding: 2em 1em;
+  padding: 0.5em 1em;
   text-align: center;
 }
 
 .post p {
-  text-align: justify;
-  text-indent: 1.5em;
-  text-justify: inter-word;
+  margin-bottom: 1em;
 }
 
-.post p:first-of-type,
-.post h2 + p {
-  text-indent: 0;
-}
+/** Hiding fancy indentation for the time being
+
+    .post p {
+      text-align: justify;
+      text-indent: 1.5em;
+      text-justify: inter-word;
+    }
+
+    .post p:first-of-type,
+    .post h2 + p {
+      text-indent: 0;
+    } 
+
+**/
 
 .post a:hover {
   background: $highlight;
