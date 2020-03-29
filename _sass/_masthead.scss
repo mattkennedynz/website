@@ -22,4 +22,7 @@
   @media (min-width: $on-tablet) {
     font-size: 1.75em;
   }
+  @media (min-width: $on-desktop) {
+    padding: 0 23rem;
+  }
 }
