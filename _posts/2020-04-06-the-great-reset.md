@@ -10,7 +10,7 @@ thanks:
 
 Is this it?
 
-A few weeks of build-up, and our way of live seemed to change in days. A virus which at first didn't seem to be too much of a concern, spread rapidly and sparked fears of overwhelming health systems. The airline and tourism industries evaporated. Economies started tanking.
+A few weeks of build-up, and our way of live seemed to change in days. A virus which at first didn't seem to be too much of a concern, spread rapidly and sparked fears of overwhelming health systems. The airline and tourism industries evaporated. Economies started tanking. The death toll kept rising.
 
 We went in to lock-down—with virtually no advice on how millions should adapt to their new way of living. Now the question is: *for how much longer?*
 
@@ -26,15 +26,15 @@ Or will it?
 
 Despite recent waves of nationalisation, our world is still heavily globalised. We can travel the world like never before—as can our infections.
 
-Will we soon need to show evidence of having had COVID-19—and recovered? Or how about, in the months to come, having to provide baseline body temperature statistics to the authorities to enable border screenings of travelers with fevers?
+Will we soon need to show evidence of having had COVID-19—and recovered? Or how about, in the months to come, having to provide baseline body temperature statistics to the authorities to enable border screenings of travellers with fevers?
 
 And what about the bigger questions of our ways of living and how we structure our societies?
 
 Will support packages to companies morph into universal welfare payments to citizens as companies close? Are we even in a position to do that—and for how long?
 
-It seems to me that food production, followed by health services and accommodation are what we *really* need. Everything else seems debatable.
+In these times it seems to me that food production, followed by health services and accommodation are what we *really* need. Everything else seems optional—or at least debatable.
 
-Will hospitality and tourism workers soon sows seed and pick fruit? What will happen to everyone else? How many lines of work can justify their existence due to being crucial support services to food, health, and accommodation?
+Will hospitality and tourism workers soon sow seeds and pick fruit? What will happen to everyone else? How many vocations can justify their existence due to being crucial support services to food, health, and accommodation?
 
 In short, will this shock event become a reset button? 
 
