@@ -1,8 +1,11 @@
 ---
 layout: post
-title:  "Hello World!"
-date:   2019-03-27 17:53:23 -0300
+title: "Hello World!"
+date: 2019-03-27 17:53:23 -0300
 categories: 
+tags: 
+excerpt: "I’m Matt! This site will eventually become the hub for what I’m working on and thinking about."
+thanks: 
 ---
 
 I’m Matt and welcome to my website! 

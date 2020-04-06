@@ -49,7 +49,7 @@ collections:
 # Styling
 feed_icon: /favicon.ico
 show_excerpts: true
-excerpt_length: 16
+excerpt_length: 20
 hide_search: true
 hide_credits: true
 
