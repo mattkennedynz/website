@@ -18,7 +18,7 @@ The current direction seems promising for flattening the infectious curve to a l
 
 To get through this period many governments are (and will continue) creating stimulus packages aimed at propping up companies—and in turn, their employees—during this time. 
 
-The transition out of lock-down seems to be a modern testing and data play. Where testing becomes more ubiquitous and outbreaks are contained rapidly in rolling series of localized  (rather than national) lock-downs. This would enable a return to something more familiar, while being prepared for future outbreaks.
+The transition out of lock-down could be a modern testing and data play. If testing becomes more ubiquitous, outbreaks could be contained rapidly in rolling series of localized  (rather than national) lock-downs. This would enable a return to something more familiar, while being prepared for future outbreaks.
 
 After that, hopefully some kind of vaccine or treatment will come in to play. Borders will reopen. And this will all fade into being a notable moment in history.
 
@@ -38,6 +38,6 @@ Will hospitality and tourism workers soon sow seeds and pick fruit? What will ha
 
 In short, will this shock event become a reset button? 
 
-I imagine the likelihood is a factor of time. Lock-down for two weeks: a novel experience for many people, already overwhelming for some companies. Lock-down for two months: mental health and domestic violence significantly deteriorates, only the largest companies survive? Lock-down for six months: sanity is reforged through processing and accepting our internal worlds, while in the background the global economy crashes? Permanently?
+I imagine the likelihood of this happening is a factor of time. Lock-down for two weeks: a novel experience for many people, already overwhelming for some companies. Lock-down for two months: mental health and domestic violence significantly deteriorates, only the largest companies survive? Lock-down for six months: sanity is reforged through processing and accepting our internal worlds, while in the background the global economy crashes? Permanently?
 
 My last post, almost exactly one year ago, asked [*What heading do we want to set for humanity?*](/blog/the-heading-nobody-set) We now have time to begin answering this—and the circumstances to bring it into effect.
