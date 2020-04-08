@@ -18,7 +18,7 @@ The current direction seems promising for flattening the infectious curve to a l
 
 To get through this period many governments are (and will continue) creating stimulus packages aimed at propping up companies—and in turn, their employees—during this time. 
 
-The transition out of lock-down could be a modern testing and data play. If testing becomes more ubiquitous, outbreaks could be contained rapidly in rolling series of localized  (rather than national) lock-downs. This would enable a return to something more familiar, while being prepared for future outbreaks.
+The transition out of lock-down could be a modern testing and data play. If testing becomes more ubiquitous, outbreaks could be contained rapidly in a rolling series of localized  (rather than national) lock-downs. This would enable a return to something more familiar, while being prepared for future outbreaks.
 
 After that, hopefully some kind of vaccine or treatment will come in to play. Borders will reopen. And this will all fade into being a notable moment in history.
 

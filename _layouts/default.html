@@ -1,24 +1,29 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="{{ page.lang | default: site.lang | default: "en" }}">
-  <head>
-    
+<head>
+
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    
+
     <title>{% if page.title and page.title != "" %}{{ page.title }} &mdash; {% endif %}{{ site.title }}</title>
 
-    {% if site.description %}<meta name="description" content="{{ site.description }}">{% endif %}  
+    {% if site.description %}
+    <meta name="description" content="{{ site.description }}">{% endif %}
 
     <link rel="stylesheet" href="{{ '/assets/css/main.css' | absolute_url }}?{{ site.time | date: '%s%N' }}">
+
+    <script type="text/javascript" src="{{ '/assets/js/vendor/jquery-3-4-1.js' | absolute_url }}"></script>
+    <script type="text/javascript" src="{{ '/assets/js/main.js' | absolute_url }}"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
 
     <link rel="apple-touch-icon" href="{{ site.icon }}">
 
     {%- if jekyll.environment == 'production' -%}
-      {%- include google-analytics.html -%}
+    {%- include google-analytics.html -%}
     {%- endif -%}
 
-  </head>
+</head>
   <body>
 
     <!-- Hide skip section functionality
