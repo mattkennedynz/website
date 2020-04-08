@@ -35,6 +35,8 @@
             <input type="hidden" name="fields[hidden]" />
         </fieldset>
         <fieldset>
+            <input type="hidden" name="options[reCaptcha][siteKey]" value="{{ site.reCaptcha.siteKey }}">
+            <input type="hidden" name="options[reCaptcha][secret]" value="{{ site.reCaptcha.secret }}">
             <div class="g-recaptcha" data-sitekey="{{ site.reCaptcha.siteKey }}"></div>
         </fieldset>
         <!-- Start comment form alert messaging -->
