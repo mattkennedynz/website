@@ -5,4 +5,4 @@ title: About
 
 # Hey, I'm Matt
 
-## And here are my [latest thoughts](/blog).
+## And here are [some thoughts of mine](/blog).
