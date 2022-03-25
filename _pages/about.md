@@ -5,6 +5,6 @@ title: About
 
 ### Hi, I'm Matt.
 
-I'm trying making the world a better place through education. Born and raised in Wellington, New Zealand, I now live in Santiago, Chile. 
+I'm trying make a more conscious and curious world through education. I live in Wellington, New Zealand. 
 
 Welcome to my website!
