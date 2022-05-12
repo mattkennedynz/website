@@ -4,7 +4,8 @@ comments:
   commitMessage          : "New comment"
   filename               : comment-{@timestamp}
   format                 : "yml"
-  moderation             : false
+  moderation             : true 
+  # use `false` with reCaptcha
   path                   : "_data/comments/{options.slug}"
   requiredFields         : ['name', 'email', 'message']
   transforms:
@@ -15,6 +16,7 @@ comments:
       options:
         format           : "iso8601"
   reCaptcha:
-    enabled: true
+    enabled: false 
+    # true
     siteKey: 6LeQr-cUAAAAAHDnILqW3qIoC0QiwSankDwIE8po
     secret: UqP/FoMxPcYCUuLNmU1P/z5F7wZmgxOwhgzKKlHIaLHdDqHQQNZuzR0IfI9V1A7Rvid4NPlO1F/APqbuND1IhYsLf4s4oaMTOBhvKTIU0dL8mdlXCgbtXvVmF5pmokb3NSrdQ4cB6IPE2P6gMNxs5yQwmif5qh9gWoNtZ0OvOiafrFykyms6SkLEkoFvg4Vj71IA4T++YphBMfDn6yh+j0jtO26f8J0N1PwaIY05r44vzlHE7oG5xc8rDWWmN/FyGO7s6Me08CplNqKsHD7i9v2xdkxYOUahmMR/L2MKp9tgF+3v3st9b6fU+Dj0xxj02Hu8PfMr8F2v31OfI7KvW032RpjttdS1tE2vGQqAcN5TPyBiCR4PzGObU3okfSMaZBFWsNhaj6I4nnTWO5szpEY5HoYel6BdE4PiDgPq9rlM3KTqxlRkSd/sClASeRF8+NGKH1phDeQPYh46LJKnX29YvSatcPm+lKoUAz49ZZL0Fj8T7RHam8jQEO5lijw9/mmXb2uTXfYSbFUuUatbfxsDAprjBAQsmPeekwMHN8fdo8hoYKLn9aAlf8m2AnUFNQNznCo6FbY3Z05OqplnNbC1JY3dU3F7iuANQsoDHM1fI2FTKnLlvSfgduqxrSQWvRgRjerL8Q6zCk2Z0+IjDRrutqwTecRAgS9Exj/P87I=
