@@ -3,8 +3,6 @@ layout: page
 title: About
 ---
 
-### Hi, I'm Matt.
-
-I'm trying make a more conscious and curious world through education. I live in Wellington, New Zealand. 
+### Kia ora, I'm Matt.
 
 Welcome to my website!
