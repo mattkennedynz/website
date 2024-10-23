@@ -28,8 +28,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mattkennedy.nz" # the base hostname & protocol for your site, e.g. http://example.com
 blog_repo: website
 # author?_icon: /assets/images/author.jpg
-twitter_username: mattkennedy
-github_username:  mattkennedynz
+# twitter_username: 
+# github_username: 
 
 # Build settings
 markdown: kramdown
