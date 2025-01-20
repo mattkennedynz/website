@@ -4,13 +4,13 @@ title: "The Great Reset?"
 date: 2020-04-06 12:53:00 -0400
 categories: 
 tags: 
-excerpt: "Is this it? A few weeks of build-up, and our way of live seemed to change in days."
+excerpt: "Is this it? A few weeks of build-up, and our way of life seemed to change in days."
 thanks: 
 ---
 
 Is this it?
 
-A few weeks of build-up, and our way of live seemed to change in days. A virus which at first didn't seem to be too much of a concern, spread rapidly and sparked fears of overwhelming health systems. The airline and tourism industries evaporated. Economies started tanking. The death toll kept rising.
+A few weeks of build-up, and our way of life seemed to change in days. A virus which at first didn't seem to be too much of a concern, spread rapidly and sparked fears of overwhelming health systems. The airline and tourism industries evaporated. Economies started tanking. The death toll kept rising.
 
 We went in to lock-down—with virtually no advice on how millions should adapt to their new way of living. Now the question is: *for how much longer?*
 
